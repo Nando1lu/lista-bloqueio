@@ -45,8 +45,8 @@ Plaintext
 127.0.0.1 www.kwai.com
 #127.0.0.1 pinterest.com
 #127.0.0.1 www.pinterest.com
-127.0.0.1 pinterest.com.br
-127.0.0.1 www.pinterest.com.br
+#127.0.0.1 pinterest.com.br
+#127.0.0.1 www.pinterest.com.br
 127.0.0.1 reddit.com
 127.0.0.1 www.reddit.com
 127.0.0.1 linkedin.com
