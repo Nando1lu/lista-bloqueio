@@ -51,9 +51,9 @@ Plaintext
 127.0.0.1 www.reddit.com
 127.0.0.1 linkedin.com
 127.0.0.1 www.linkedin.com
-127.0.0.1 whatsapp.com
-127.0.0.1 www.whatsapp.com
-127.0.0.1 web.whatsapp.com
+#127.0.0.1 whatsapp.com
+#127.0.0.1 www.whatsapp.com
+#127.0.0.1 web.whatsapp.com
 127.0.0.1 t.me
 127.0.0.1 web.telegram.org
 
