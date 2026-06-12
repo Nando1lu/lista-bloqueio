@@ -43,8 +43,8 @@ Plaintext
 127.0.0.1 www.twitter.com
 127.0.0.1 kwai.com
 127.0.0.1 www.kwai.com
-127.0.0.1 pinterest.com
-127.0.0.1 www.pinterest.com
+#127.0.0.1 pinterest.com
+#127.0.0.1 www.pinterest.com
 127.0.0.1 pinterest.com.br
 127.0.0.1 www.pinterest.com.br
 127.0.0.1 reddit.com
