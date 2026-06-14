@@ -56,8 +56,15 @@ Plaintext
 #127.0.0.1 web.whatsapp.com
 127.0.0.1 t.me
 127.0.0.1 web.telegram.org
-127.0.0.1 www.msn.com
 127.0.0.1 msn.com
+127.0.0.1 www.msn.com
+127.0.0.1 msn.com.br
+127.0.0.1 www.msn.com.br
+127.0.0.1 ntp.msn.com
+127.0.0.1 assets.msn.com
+127.0.0.1 api.msn.com
+127.0.0.1 img-s-msn-com.akamaized.net
+127.0.0.1 static-global-s-msn-com.akamaized.net
 
 # =========================================================
 # 3. BLOQUEIO DE ALL STREAMINGS
